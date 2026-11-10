@@ -73,15 +73,3 @@ This project provides an in-depth analysis of retail sales, profitability, and c
 ### 10. Top 10 Products by Sales Bar Chart
 * **Top Revenue Products:** Identified premium office equipment and Cisco TelePresence systems as top gross revenue drivers[cite: 2].
 ![Top 10 Products by Sales](hori_bar.png)
-
----
-
-## Key Findings & Insights
-* **Category Dominance:** Technology and Furniture generate the lion's share of total revenue[cite: 2].
-* **The Discount Trap:** Transactions with discounts exceeding 20%–30% consistently result in net financial losses[cite: 2].
-* **Regional Inefficiencies:** The Central region exhibits high sales activity but negative/low profitability compared to the West region[cite: 2].
-
-## Recommendations
-* **Cap Maximum Discounts:** Restrict discount percentages above 20% on vulnerable sub-categories like Tables, Bookcases, and Supplies[cite: 2].
-* **Focus on High-Margin Inventories:** Allocate greater resources toward top-performing categories like Technology[cite: 2].
-* **Audit Central Region Pricing:** Conduct an immediate operational review of discount approval workflows in the Central sales district[cite: 2].
